@@ -56,3 +56,7 @@
 	- Data base integration is out of Scope
 	- This problem tries to improve your data structures, basic schema daigram,  programming
 	- Adavance usage such as design patterns is your choice, but focus is on basic first
+
+---------------------------------------------------------------------------------------------
+
+3. **ACL problem** (Access control list)

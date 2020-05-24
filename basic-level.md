@@ -2,7 +2,7 @@
 
 ## Introduction
 
- - This are the basic level problems which any begineer level programmer can use for pratice.  
+ - This are the basic level problems which any beginner level programmer can use for pratice.  
  - The intention behind this list is used get used
    to programming language syntax and make the most of it. 
  - This can be either a comand line interactive programs (or) libary.
